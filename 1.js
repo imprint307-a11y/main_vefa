@@ -11,21 +11,21 @@ const productCategories = [
     description: "بنية بصرية فاخرة تُبرز هوية العيادة، وتدمج مقاطع الفيديو الحية من داخل غرف العلاج مع جولات افتراضية تصنع تجربة تصفح مطمئنة وجاذبة للنخبة." ,
     products: [
       {
-        title: "Imprint Dental clinics",
+        title: "Imprint Dental clinics 01",
         price: "28 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782951268/Screen_Recording_2026-07-02_031327_x7eo7k.mp4",
         link: " https://imprint307-a11y.github.io/new.html/",
         description:"واجهة رقمية متطورة تعتمد على المحاكاة البصرية ثلاثية الأبعاد واستعراض الحالات الفورية، لتقدم للمريض تجربة بصرية حية للابتسامة قبل تصميمها." ,
       },
       {
-        title: "Imprint Dental clinics",
+        title: "Imprint Dental clinics 02",
         price: "28 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782951839/Screen_Recording_2026-07-02_032259_ukegz5.mp4",
         link: " https://imprint307-a11y.github.io/new2/",
         description: "منصة بصرية راقية تبرز هوية العيادة الفخمة، وتدمج الجولات الافتراضية مع مقاطع الفيديو السينمائية لتعكس تجربة علاجية حصرية تليق بالنخبة." ,
       },
       {
-        title: "Imprint Dental clinics",
+        title: "Imprint Dental clinics 03",
         price: "28 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782952346/Screen_Recording_2026-07-02_033121_opzt91.mp4",
         link: " https://imprint307-a11y.github.io/new1/",
@@ -42,21 +42,21 @@ const productCategories = [
     description: "نماذج تركّز على الثقة، الخبرة، المؤهلات، الخدمات الطبية، وطرق الحجز أو التواصل.",
     products: [
       {
-        title: "Imprint Doctor Profile",
+        title: "Imprint Doctor Profile 01 ",
         price: "14 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782686884/mid1_x4c7kg.mp4",
         link: " https://imprint307-a11y.github.io/Imprint_model/",
         description:" هذا الأسلوب يركز على الكفاءة، الدقة، وبناء سلطة طبية (Authority) قوية تلائم المنصات المهنية مثل LinkedIn أو مواقع المستشفيات."
       },
       {
-        title: "Imprint Doctor Profile",
+        title: "Imprint Doctor Profile 02 ",
         price: "13 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782688244/mid2_wcde2y.mp4",
         link: "https://imprint307-a11y.github.io/mid2/",
         description: " يركز هذا الأسلوب على المريض كإنسان، ويبني جسرًا من الثقة والراحة النفسية، وهو ممتاز لصفحات التواصل الاجتماعي (انستغرام/فيسبوك)."
       },
       {
-        title: "Imprint Doctor Profile",
+        title: "Imprint Doctor Profile 03 ",
         price: "24 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782688950/mid3_gdxeym.mp4",
         link: " https://imprint307-a11y.github.io/mid3/",
@@ -64,7 +64,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Clinic Showcase",
+        title: "Imprint Doctor Profile 04 ",
         price: "9 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782689648/mid4_dnbmab.mp4",
         link: "https://imprint307-a11y.github.io/mid4/",
@@ -72,7 +72,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Clinic Showcase",
+        title: "Imprint Doctor Profile 05",
         price: "25 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782690182/mid5_gyi50n.mp4",
         link: "https://imprint307-a11y.github.io/mid5/",
@@ -80,7 +80,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Clinic Showcase",
+        title: "Imprint Doctor Profile 06 ",
         price: "21 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782690773/nid6_tijw0r.mp4",
         link: "https://imprint307-a11y.github.io/mid6/",
@@ -88,7 +88,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Clinic Showcase",
+        title: "Imprint Doctor Profile 07",
         price: "14 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782691180/mid7_qc51wc.mp4",
         link: "https://imprint307-a11y.github.io/mid7/",
@@ -104,14 +104,14 @@ const productCategories = [
     description: "نماذج بصرية تركّز على الأعمال، الهوية، الصور، الفيديوهات، وتجربة التصفح الجذابة.",
     products: [
       {
-        title: "Imprint Designer Gallery",
+        title: "Imprint Designer Gallery 01",
         price: "22 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782694006/art1_hkroe5.mp4",
         link: "https://imprint307-a11y.github.io/art1/",
         description:" مساحة بصرية وأدبية تلتقي فيها دقة الريشة بعمق الكلمة، لنصنع من الفن بصمة حية تُلهم العقول وتخلد الأثر."
       },
       {
-        title: "Imprint Photographer Mood",
+        title: "Imprint Photographer Mood 02",
         price: "14 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782694384/art2_sbrl6n.mp4",
         link: "https://imprint307-a11y.github.io/art2/",
@@ -125,14 +125,14 @@ const productCategories = [
     description: "نماذج تبرز GitHub، المشاريع البرمجية، المهارات، اللغات، التقنيات، وروابط التواصل المهني.",
     products: [
       {
-        title: "Imprint Developer Portfolio",
+        title: "Imprint Developer Portfolio 01",
         price: "14 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782917283/cyber11_yj6zh4.mp4",
         link: "https://imprint307-a11y.github.io/cyber1/",
         description: " بناء الحصون الرقمية وتأمين البنى التحتية الحساسة عبر استراتيجيات سيبرانية استباقية تحول دون اختراق بياناتك، وتضمن استمرارية أعمالك بأمان مطلق."
       }
       ,{
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 02 ",
         price: "23 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782918466/cyber3_txohko.mp4",
         link: " https://imprint307-a11y.github.io/cyber3/",
@@ -140,21 +140,21 @@ const productCategories = [
       }
       ,
         {
-        title: "Imprint Developer Portfolio",
+        title: "Imprint Developer Portfolio 03",
         price: "8 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782917837/cyber2_ysecf1.mp4",
         link: " https://imprint307-a11y.github.io/cyber2/",
         description: " تمكين المؤسسات الرائدة من قيادة التحول الرقمي بثقة، من خلال صياغة حلول أمنية متكاملة تحمي أصولك الرقمية وتجعل من الأمن السيبراني دافعاً للنمو لا عائقاً له. "
       },
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 04",
         price: "17 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782921693/b1_snjoqe.mp4",
         link: "https://imprint307-a11y.github.io/cyber2/",
         description:" هندسة بنيات تحتية برمجية فائقة الأمان وقابلة للتوسع اللانهائي، تضمن تشغيل أنظمتك المعقدة ومعالجة ملايين البيانات يومياً بسلاسة مطلقة ودون أي توقف."
       },
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 05",
         price: "18 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782923722/b22_qlsewk.mp4",
         link: " https://imprint307-a11y.github.io/b2/",
@@ -162,7 +162,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 06",
         price: "14 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782922753/b3_xuawl0.mp4",
         link: "https://imprint307-a11y.github.io/b3/",
@@ -170,7 +170,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 07",
         price: "18 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782923482/b4_vndcia.mp4",
         link: "https://imprint307-a11y.github.io/b4/",
@@ -178,7 +178,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 08",
         price: "8 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782928049/b6_odc8fh.mp4",
         link: "https://imprint307-a11y.github.io/b6/",
@@ -186,7 +186,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 09",
         price: "12 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782928560/b7_lbrpv1.mp4",
         link: "https://imprint307-a11y.github.io/b7/",
@@ -194,7 +194,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 011",
         price: "11 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782929663/b8_bff5eu.mp4",
         link: "https://imprint307-a11y.github.io/b8/",
@@ -202,7 +202,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 012 ",
         price: "10 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782930032/b9_fzz76h.mp4",
         link: " https://imprint307-a11y.github.io/b9/",
@@ -210,7 +210,7 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 013",
         price: "17 US Dollar ",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782930327/b10_t3y4h8.mp4",
         link: "https://imprint307-a11y.github.io/b10/",
@@ -218,21 +218,21 @@ const productCategories = [
       }
       ,
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 014",
         price: "13 US Dollar ",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782930839/d1_vqz0sb.mp4",
         link: "https://imprint307-a11y.github.io/d1/",
         description: "تحويل البيانات الضخمة إلى رؤى استراتيجية ملموسة، وبناء نماذج تعلم آلي ($Machine Learning$) متقدمة تتوقع الاتجاهات المستقبلية لتمنح مؤسستك تفوقاً تنافسياً مبنياً على الأرقام."
       },
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 015",
         price: "17 US Dollar ",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782931334/Screen_Recording_2026-07-01_214038_g4t6ud.mp4",
         link: "https://imprint307-a11y.github.io/d2/",
         description: "نصنع من الأرقام الصامتة حلولاً ذكية؛ متخصص في تحليل البيانات المعقدة وتطوير خوارزميات ذكاء اصطناعي تحل مشكلات العمل الحقيقية وتدعم اتخاذ القرار بدقة متناهية."
       },
       {
-        title: "Imprint Startup Profile",
+        title: "Imprint Startup Profile 016",
         price: "18 US Dollar ",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782931795/Screen_Recording_2026-07-01_214911_lumn1m.mp4",
         link: "https://imprint307-a11y.github.io/d3/",
@@ -248,14 +248,14 @@ const productCategories = [
     description: "نماذج تعرض المشاريع، الخبرات، المهارات التقنية، والإنجازات بطريقة عملية وواضحة.",
     products: [
       {
-        title: "Imprint Engineer Portfolio",
+        title: "Imprint Engineer Portfolio 01",
         price: "20 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782692684/eng1_dhteao.mp4",
         link: "https://imprint307-a11y.github.io/eng1/",
         description: "يعرض المشاريع الهندسية، البرامج المستخدمة، الخبرات العملية، وروابط الأعمال."
       },
       {
-        title: "Imprint Project Case Study",
+        title: "Imprint Project Case Study 02",
         price: "18 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782693175/eng2_lwnmns.mp4",
         link: "https://imprint307-a11y.github.io/eng2/",
@@ -270,14 +270,14 @@ const productCategories = [
     description: "نماذج بصرية تركّز على الأعمال، الهوية، الصور، الفيديوهات، وتجربة التصفح الجذابة.",
     products: [
       {
-        title: "Imprint Designer Gallery",
+        title: "Imprint Designer Gallery 01",
         price: "22 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782694006/art1_hkroe5.mp4",
         link: "https://imprint307-a11y.github.io/art1/",
         description: "واجهة قوية لعرض الأعمال البصرية، التصاميم، الهوية الشخصية، وروابط السوشال ميديا."
       },
       {
-        title: "Imprint Photographer Mood",
+        title: "Imprint Photographer Mood 02",
         price: "14 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782694384/art2_sbrl6n.mp4",
         link: "https://imprint307-a11y.github.io/art2/",
