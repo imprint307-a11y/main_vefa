@@ -239,7 +239,8 @@ const productCategories = [
         description: "من تنظيف البيانات واستكشافها إلى نشر النماذج الذكية ($Deployment$)؛ أصمم حلولاً برمجية ذكية تعتمد على الهندسة الدقيقة للبيانات لتحويل التحديات المعقدة إلى فرص نمو مستدامة."
       }
     ]
-  },
+  }
+  ,
   {
     id: "engineering",
     title: "للمهندسين والمجالات التقنية الهندسية",
@@ -261,7 +262,27 @@ const productCategories = [
         description: "مناسب لمن يريد عرض مشروعه على شكل مشكلة، حل، أدوات، ونتائج نهائية."
       }
     ]
-  }
+  },
+  {
+    id: "design",
+    title: "للمصممين والمبدعين",
+    label: "Creative Imprints",
+    description: "نماذج بصرية تركّز على الأعمال، الهوية، الصور، الفيديوهات، وتجربة التصفح الجذابة.",
+    products: [
+      {
+        title: "Imprint Designer Gallery",
+        price: "22 US Dollar",
+        video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782694006/art1_hkroe5.mp4",
+        link: "https://imprint307-a11y.github.io/art1/",
+        description: "واجهة قوية لعرض الأعمال البصرية، التصاميم، الهوية الشخصية، وروابط السوشال ميديا."
+      },
+      {
+        title: "Imprint Photographer Mood",
+        price: "14 US Dollar",
+        video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782694384/art2_sbrl6n.mp4",
+        link: "https://imprint307-a11y.github.io/art2/",
+        description: "مناسب للمصورين وصناع المحتوى مع تركيز أكبر على الصور، الأسلوب، والحجز."
+      }
     ]},
 ];
 
