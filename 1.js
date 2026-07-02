@@ -14,21 +14,21 @@ const productCategories = [
         title: "Imprint Dental clinics 01",
         price: "28 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782951268/Screen_Recording_2026-07-02_031327_x7eo7k.mp4",
-        link: " https://imprint307-a11y.github.io/new.html/",
+        link: " https://imprint307-a11y.github.io/new11/",
         description:"واجهة رقمية متطورة تعتمد على المحاكاة البصرية ثلاثية الأبعاد واستعراض الحالات الفورية، لتقدم للمريض تجربة بصرية حية للابتسامة قبل تصميمها." ,
       },
       {
         title: "Imprint Dental clinics 02",
         price: "28 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782951839/Screen_Recording_2026-07-02_032259_ukegz5.mp4",
-        link: " https://imprint307-a11y.github.io/new2/",
+        link: " https://imprint307-a11y.github.io/new1/",
         description: "منصة بصرية راقية تبرز هوية العيادة الفخمة، وتدمج الجولات الافتراضية مع مقاطع الفيديو السينمائية لتعكس تجربة علاجية حصرية تليق بالنخبة." ,
       },
       {
         title: "Imprint Dental clinics 03",
         price: "28 US Dollar",
         video: "https://res.cloudinary.com/dlbi7sm7p/video/upload/v1782952346/Screen_Recording_2026-07-02_033121_opzt91.mp4",
-        link: " https://imprint307-a11y.github.io/new1/",
+        link: " https://imprint307-a11y.github.io/new2/",
         description: "بنية ويب دافئة ترتكز على قصص المرضى والمحتوى التوعوي، ومصممة بواجهة تصفح مريحة تكسر حاجز الخوف وتصنع رابطاً من الثقة المتبادلة."
       }
     ]
